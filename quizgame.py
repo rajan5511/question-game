@@ -2,7 +2,7 @@ questions = {"101": "Who is DonaldTrump ?",
              "102": "is Earth Round ?",
              "103": "You walked 3 steps forwards, 2 steps to left and 1 step to right. How many steps did you walk today ?"}
 
-answers = {"101": "My Housemaid",
+answers = {"101": "My Chef",
            "102": "Yes",
            "103": "999999"}
 
